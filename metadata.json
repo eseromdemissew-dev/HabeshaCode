@@ -1,0 +1,6 @@
+{
+  "name": "HabeshaCode",
+  "description": "AI-powered Ethiopian programming education ecosystem — Learn. Build. Innovate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
